@@ -10,8 +10,6 @@ Note: The solutions are relevant for the year 2023 for the IMBO-02-21 group, 14t
 
 - Each practice (from 1 to 12) has a corresponding file with solutions in different variations.
 
-- [About](https://github.com/xEnotWhyNotx/kispython_tasks/blob/main/About): General information about the repository and its purpose.
-
 ## Usage
 
 This repository is intended for use by students studying Python programming as part of the KIS course at RTU MIREA. You can study and analyze the solutions to better understand the application of the Python language.
@@ -37,8 +35,6 @@ This project is licensed under the [MIT License](LICENSE.md). You are free to us
 ## Структура Репозитория
 
 - Каждая практика (с 1 по 12) имеет соответствующий файл с решением в различных вариациях.
-  
-- [About](https://github.com/xEnotWhyNotx/kispython_tasks/blob/main/About): Общая информация о репозитории и его цели.
 
 ## Использование
 
